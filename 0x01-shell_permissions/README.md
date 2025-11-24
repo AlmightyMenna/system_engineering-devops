@@ -1,2 +1,1 @@
-## Intoduction To Shell permission
-## BASICS TO Shell Permission
+## Intoduction to Shell permission
