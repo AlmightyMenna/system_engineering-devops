@@ -1,0 +1,16 @@
+total 31
+drwxr-xr-x 1 user 197610     0 Dec 19 05:01 .
+drwxr-xr-x 1 user 197610     0 Dec  5 09:57 ..
+-rw-r--r-- 1 user 197610 12288 Dec 18 12:54 .swp
+-rwxr-xr-x 1 user 197610    33 Dec 19 02:46 0-hello_world
+-rwxr-xr-x 1 user 197610    28 Dec 19 03:09 1-confused_smiley
+-rwxr-xr-x 1 user 197610    28 Dec 19 03:22 2-hellofile
+-rwxr-xr-x 1 user 197610    39 Dec 19 03:32 3-twofiles
+-rwxr-xr-x 1 user 197610    35 Dec 19 04:13 4-lastlines
+-rwxr-xr-x 1 user 197610    35 Dec 19 04:17 5-firstlines
+-rwxr-xr-x 1 user 197610    40 Dec 19 04:44 6-third_line
+-rwxr-xr-x 1 user 197610    74 Dec 19 04:54 7-file
+-rwxr-xr-x 1 user 197610    36 Dec 19 05:01 8-cwd_state
+-rwxr-xr-x 1 user 197610    32 Dec 19 01:37 README.md
+-rw-r--r-- 1 user 197610     0 Dec 19 05:01 ls_cwd_content
+-rw-r--r-- 1 user 197610    13 Dec 19 02:19 output.txt
