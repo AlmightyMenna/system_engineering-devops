@@ -1,0 +1,2 @@
+#!/bin/bash
+# Script to delete all regular .js files in current directory and subdirectories
