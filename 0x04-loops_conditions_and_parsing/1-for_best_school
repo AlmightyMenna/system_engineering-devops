@@ -1,5 +1,1 @@
-#!/usr/bin/env bash
-for i in {1..10}
-do
-    echo "Best School"
-done
+echo -e "#!/usr/bin/env bash\n# This script prints Best School 10 times\nfor i in {1..10}\ndo\n    echo \"Best School\"\ndone" > 1-for_best_school
