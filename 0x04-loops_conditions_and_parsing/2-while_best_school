@@ -1,8 +1,8 @@
-  echo -e "#!/usr/bin/env bash
+#!/usr/bin/env bash
 # This script displays "Best School" 10 times using a while loop
 n=1
 while [ $n -le 10 ]
 do
     echo "Best School"
     ((n++))
-done"
+done
