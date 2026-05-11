@@ -1,5 +1,2 @@
 #!/bin/bash
-for i in $(seq 1 10)
-do
-    echo "Best School"
-done
+echo "Best School" > "\*\\'\"Best School\"\\'\*\$\?\*\*\*\*\*\:)"
