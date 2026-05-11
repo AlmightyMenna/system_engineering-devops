@@ -1,1 +1,1 @@
-Project: Processes and signals - Learning how to manage PIDs and handle signals.
+This project covers process management and signal handling in Bash.
