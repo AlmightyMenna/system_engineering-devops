@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script traps SIGTERM and displays a message
+# This script displays its PID and traps SIGTERM to display a message
 trap "echo 'I am invincible!!!'" SIGTERM
 
 while true

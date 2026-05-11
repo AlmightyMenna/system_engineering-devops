@@ -1,1 +1,1 @@
-Project for learning processes and signals
+Project: Processes and signals - Learning how to manage PIDs and handle signals.
