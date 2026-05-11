@@ -1,1 +1,1 @@
-Processes and signals project
+Project: Processes and signals
